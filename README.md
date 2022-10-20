@@ -7,5 +7,5 @@ Ordenado por pasta e arquivo.
 - Grafos
 - Pilha
 - Fila
-- Big o 
+- Big O
 
